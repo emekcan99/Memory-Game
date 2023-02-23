@@ -1,0 +1,20 @@
+.score{
+    position:absolute;
+    top: 0;
+    left:50px;
+    padding:3px;
+    color: #321906;
+    background-color: #ffe522;
+    padding: 15px;
+    border-color: #321906;
+    border-style: double;
+}
+.mix-button{
+    position: absolute;
+    top: 125px;
+    left: 90px;
+    background-color: #ffe522;
+    color: #321906;
+    border-color: #321906;
+    
+}
